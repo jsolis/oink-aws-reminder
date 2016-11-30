@@ -1,0 +1,19 @@
+{
+  "name": "oink-reminder",
+  "version": "1.0.0",
+  "description": "AWS Lambda oink reminder notifier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsolis/oink-reminder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsolis/oink-reminder/issues"
+  },
+  "homepage": "https://github.com/jsolis/oink-reminder#readme"
+}
